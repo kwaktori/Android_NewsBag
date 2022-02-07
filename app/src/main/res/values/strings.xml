@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NewsBag</string>
+
+    <string name="main_title">What is in my News Bag</string>
+    <string name="main_menu_news_list">실시간 뉴스</string>
+    <string name="main_menu_news_bag">뉴스 가방</string>
 </resources>
